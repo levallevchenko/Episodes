@@ -1,0 +1,9 @@
+query episodes {
+  episodes {
+    results {
+      name
+      created
+      episode
+    }
+  }
+}
